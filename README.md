@@ -1,0 +1,1 @@
+I first set up the api and considered how would the request fail and there's how I came up with the 400 status case. Then I wrote the fibonacci generator
